@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "738828517514",
+    "firebase_url": "https://mycloud-f69ea.firebaseio.com",
+    "project_id": "mycloud-f69ea",
+    "storage_bucket": "mycloud-f69ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738828517514:android:1133cc2f5fab3c41",
+        "android_client_info": {
+          "package_name": "com.example.krishanasony.mycloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738828517514-b90p7dbd7icdf4h91k3nchdld9va5n46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.krishanasony.mycloud",
+            "certificate_hash": "7080197886597eb5796e522a5a4d8ecb5b12180c"
+          }
+        },
+        {
+          "client_id": "738828517514-jdp88ca2iv0mshlv68nt76evb63fqj5r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "738828517514-jdp88ca2iv0mshlv68nt76evb63fqj5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1P5Bvp_9NzeFDsHyfpRZ70LQo8ZfcM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738828517514-jdp88ca2iv0mshlv68nt76evb63fqj5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:738828517514:android:51c51fe4ef74f0f7",
+        "android_client_info": {
+          "package_name": "i.krishnasony.limelightinnvoation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "738828517514-m0bsrggev8kh4cqv1o0e1r6o3sobcpdb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "i.krishnasony.limelightinnvoation",
+            "certificate_hash": "7080197886597eb5796e522a5a4d8ecb5b12180c"
+          }
+        },
+        {
+          "client_id": "738828517514-jdp88ca2iv0mshlv68nt76evb63fqj5r.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "738828517514-jdp88ca2iv0mshlv68nt76evb63fqj5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAY1P5Bvp_9NzeFDsHyfpRZ70LQo8ZfcM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "738828517514-jdp88ca2iv0mshlv68nt76evb63fqj5r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
